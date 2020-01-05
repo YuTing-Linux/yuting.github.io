@@ -16,8 +16,8 @@
 
 漏洞库：
 
-*Zero Day Initiative | Home(https://www.zerodayinitiative.com/advisories/ZDI-18-534/)
-*漏洞列表 | 乌云漏洞库,乌云镜像站, WooYun 漏洞库, WooYun 镜像站(https://shuimugan.com/)
+*Zero Day Initiative | Home[](https://www.zerodayinitiative.com/advisories/ZDI-18-534/)
+*漏洞列表 | 乌云漏洞库,乌云镜像站, WooYun 漏洞库, WooYun 镜像站[https://shuimugan.com/](https://shuimugan.com/)
 *
 
 WorldTop1000H4ck3r@Blog

@@ -21,8 +21,9 @@
 *Exploit Education :: Andrew Griffiths' Exploit Education | [link to https://exploit.education/](https://exploit.education/)
 
 WorldTop1000H4ck3r@Blog
-*Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi | [link to https://leucosite.com/Microsoft-Edge-RCE/]
-*Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi(https://leucosite.com/Microsoft-Edge-RCE/)
+
+*Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi | [link to https://leucosite.com/Microsoft-Edge-RCE/](https://leucosite.com/Microsoft-Edge-RCE/)
+
 
 You can use the [editor on GitHub](https://github.com/YuTing-Linux/yuting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

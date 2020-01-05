@@ -12,7 +12,7 @@
 去告诉你这片深情
 但愿在今晚的美
 能让这份情传达你心
-漏洞库：
+1.漏洞库：
 Zero Day Initiative | Home(https://www.zerodayinitiative.com/advisories/ZDI-18-534/)
 You can use the [editor on GitHub](https://github.com/YuTing-Linux/yuting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

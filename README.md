@@ -18,7 +18,7 @@
 
 *Zero Day Initiative Home | [link to https://www.zerodayinitiative.com/advisories/ZDI-18-534/](https://www.zerodayinitiative.com/advisories/ZDI-18-534/)
 *WooYun | [link to https://shuimugan.com/](https://shuimugan.com/)
-*Exploit Education :: Andrew Griffiths' Exploit Education | [link to https://exploit.education/]
+*Exploit Education :: Andrew Griffiths' Exploit Education | [link to https://exploit.education/](https://exploit.education/)
 
 WorldTop1000H4ck3r@Blog
 *Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi | [link to https://leucosite.com/Microsoft-Edge-RCE/]

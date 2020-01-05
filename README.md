@@ -15,8 +15,15 @@
 能让这份情传达你心
 
 漏洞库：
+
 *Zero Day Initiative | Home(https://www.zerodayinitiative.com/advisories/ZDI-18-534/)
 *漏洞列表 | 乌云漏洞库,乌云镜像站, WooYun 漏洞库, WooYun 镜像站(https://shuimugan.com/)
+*
+
+WorldTop1000H4ck3r@Blog
+
+*Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi(https://leucosite.com/Microsoft-Edge-RCE/)
+
 You can use the [editor on GitHub](https://github.com/YuTing-Linux/yuting.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

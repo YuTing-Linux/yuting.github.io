@@ -14,6 +14,11 @@
 但愿在今晚的美
 能让这份情传达你心
 
+2020.01.06
+
+我很想你,每天都想好几遍的那种，但我真的不知道该怎样传递给你，发信息吧，怕打扰到你，打电话吧，貌似号码不通，我，一个人，好孤独。为了排解这份孤独，我想了又想，自己写点东西记录自己的生活吧。想把世界上最好的给你，但回头才发现世界上你最好。我知道，我如果不把这种感觉写出来，我永远都陷入无尽的懊悔之中
+
+
 漏洞库：
 
 *Zero Day Initiative Home | [link to https://www.zerodayinitiative.com/advisories/ZDI-18-534/](https://www.zerodayinitiative.com/advisories/ZDI-18-534/)

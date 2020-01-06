@@ -29,6 +29,14 @@ WorldTop1000H4ck3r@Blog
 
 *Microsoft Edge RCE - (CVE-2018-8495) - Abdulrahman Al-Qabandi | [link to https://leucosite.com/Microsoft-Edge-RCE/](https://leucosite.com/Microsoft-Edge-RCE/)
 
+Intelligence
+
+*听风者 | [https://start.me/p/X20Apn](https://start.me/p/X20Apn)
+
+video
+
+*SecurityTube | [http://www.securitytube.net/video/17817](http://www.securitytube.net/video/17817)
+
 fengshui
 
 *紫薇学院 | [http://www.ziweixueyuan.com](http://www.ziweixueyuan.com)
